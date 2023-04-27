@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="serial_tCOM" name="test_" type="test_" output="screen">
+
+    </node>
+</launch>

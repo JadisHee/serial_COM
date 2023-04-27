@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="serial_COM" name="main" type="main" output="screen">
+    </node>
+</launch>
